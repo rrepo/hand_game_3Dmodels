@@ -1,8 +1,23 @@
 ## hand_game (This is protype. 4/7)
 ![hand_game](https://i.imgur.com/8W6ofcq.jpeg)
 
+### Layout for keyboard-layout-editor.com
+![hand_game](https://i.imgur.com/qpxGnrh.png)
 
-This 3D models has fatal flaws.
+```
+[{x:1,a:7},"","","",""],
+[{x:1},"","","",""],
+[{sm:"cherry"},"","","","","","",{sm:""},""],
+[{x:1,sm:"cherry"},"","","",""],
+["","","","","",{sm:""},"","",""],
+[{x:5},"","",""],
+[{x:6},"",""]
+```
+
+![hand_game](https://i.imgur.com/pasSGbE.png)
+
+
+### This 3D models has fatal flaws.
 - Holes of keys are too tite in some places.
     - I had to Sand it.
 - The keys side of index finger and side of index finger didn't fit.
